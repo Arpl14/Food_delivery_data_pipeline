@@ -1,4 +1,5 @@
 # Food Delivery Data Pipeline on GCP
+<img width="954" alt="Screenshot 2025-04-14 at 6 16 16 PM" src="https://github.com/user-attachments/assets/372e4491-de41-4af2-b6a2-7e9c7e0b0435" />
 
 This repository documents an end-to-end data pipeline for the food delivery industry. The solution tackles challenges associated with processing large, unstructured datasets, transforming them into actionable insights that can guide strategic decision-making.
 
